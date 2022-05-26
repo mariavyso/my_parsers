@@ -6,4 +6,4 @@ universal_script - pretty much the same as dm,just more stable and universal for
 
 parse_mirror and parse_rally - for scrape these webpages.
 
-parse_patreon - I was intrested in analysis of all creators, but I coudn't find all of them, so I wrote this script.
+parse_patreon - I was intrested in analysis of all creators, but I coudn't find all of them, so I wrote this script. Used: json, regex, pandas
