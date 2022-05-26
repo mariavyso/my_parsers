@@ -4,6 +4,6 @@ dm – exploring the data from finviz about S$P 500, I found out that I need a t
 
 universal_script - pretty much the same as dm,just more stable and universal for parsing big tables. Used: pandas and regex
 
-parse_mirror and parse_rally - for scrape these webpages.
+parse_mirror and parse_rally - for scrape these webpages. Used: requests and pandas.
 
 parse_patreon - I was intrested in analysis of all creators, but I coudn't find all of them, so I wrote this script. Used: json, requests, pandas
